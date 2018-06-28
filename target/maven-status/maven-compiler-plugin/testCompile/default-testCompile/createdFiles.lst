@@ -1,0 +1,6 @@
+com\newlandframework\test\jdbc\NettyRpcJdbcServerTest.class
+com\newlandframework\test\PojoCallErrorTest.class
+com\newlandframework\test\PojoCallTest.class
+com\newlandframework\test\PojoTimeoutCallTest.class
+com\newlandframework\test\RpcAbilityDetailProviderTest.class
+com\newlandframework\test\RpcServerAccessTest.class
