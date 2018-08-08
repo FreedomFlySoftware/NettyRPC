@@ -25,9 +25,9 @@ import com.newlandframework.rpc.model.MessageRequest;
  * @blogs http://www.cnblogs.com/jietang/
  * @since 2018/1/31
  */
-public interface ModuleListener {
-    void exported(ModuleProvider<?> provider, MessageRequest request);
-
+public interface  ModuleListener {
     void unExported(ModuleProvider<?> provider, MessageRequest request);
+
+    void exported(ModuleProvider<?> provider, MessageRequest request);
 }
 
